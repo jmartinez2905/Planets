@@ -1,0 +1,54 @@
+.nav {
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+  }
+  
+  .navli li {
+    float: left;
+  }
+  
+  .navli li a {
+    display: block;
+    color: white;
+    background-color: red;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .navli li a:hover {
+    background-color: #272b2b;
+  }
+
+  .re {
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-position: inherit;
+  }
+h1 {
+font-size: large;
+color: rgb(255, 255, 255);
+font-family: cherish;
+text-align: center;
+font-weight: bolder;
+  }
+.Planets {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+p {
+  color: white;
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+}
+.bg {
+  background-color: black;
+}
